@@ -1,2 +1,2 @@
 # OSC Conncetion ESP32 Unity (micropython)
- Codes for connect an ESP32 to Unity via OSC. ESP32 code its in micropython, you will need a editor like Thonny. This code uses the OSC Repo for Unity of X (). We only make it compatible with the ESP32. You have to download the UOSC library and put it into ESP32 directory. Made with Axel.
+ Scripts for connect an ESP32 to Unity via OSC. ESP32 scripts uses micropython, you will need a editor like Thonny. This code uses a OSC Git Repo for Unity OSC (https://github.com/robertoranon/OSC-Unity5). We only make it compatible with the ESP32. You have to download the UOSC library (https://github.com/SpotlightKid/micropython-osc) and put it into ESP32 directory. Made with Axel.
